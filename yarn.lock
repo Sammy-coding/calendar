@@ -406,7 +406,7 @@
   dependencies:
     clsx "^1.2.1"
 
-"@nextui-org/system@2.1.2":
+"@nextui-org/system@2.1.2", "@nextui-org/system@^2.1.2":
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/@nextui-org/system/-/system-2.1.2.tgz#fc2186246a93c3737cfa684c5aed94e8fb911805"
   integrity sha512-dkj2DAye6pjpVheoJKup+L8CyK774YORudkum+5zCuwyOe50IV2j6wbGqyWir9cI1fruFUsfzQ1NR4KljWNqFQ==
